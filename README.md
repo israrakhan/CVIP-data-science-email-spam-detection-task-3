@@ -12,4 +12,6 @@ Coders Cave
 
 Data Science Internship
 
-Data can be found at :- "https://www.kaggle.com/datasets/mfaisalqureshi/spam-email"
+
+![email](https://github.com/user-attachments/assets/aabfff52-f927-40c6-a4c3-259626c81a19)
+
